@@ -410,7 +410,6 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
 
     }
 
-
     public void attemptFirebaseAuth(String email, String password)
     {
 
